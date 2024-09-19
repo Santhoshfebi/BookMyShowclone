@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import loggg from "../Resources/bms-logo.png";
-import AddMovie from './AddMovie'; // Import the AddMovie component
+import AddMovie from "./Addmovie" // Import the AddMovie component
 import AddTheater from './AddTheater'; // Import the AddTheater component
 
 const Dash = () => {
